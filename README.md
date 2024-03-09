@@ -21,7 +21,9 @@ Navigate to the project folder, run jupyter notebook, and open the .ipynb file t
 ## Work distribution
 Nisarg Ganatra: I have worked on building the user-user and item-item based colaborative filtering system. In addition I have also developed an API for this.
 
-Deepak Khatri:
+Deepak Khatri: I have worked on the Matrix Factorization colaborative filtering system in which I specifically use the Singular Value Decomposition (SVD) algorithm from the Surprise library. The Surprise library is designed for building and evaluating collaborative filtering-based recommendation systems. And I also work on top k popular suggestion for the every user in Book recommendation system. The frontend part is also done by me.
+
+ 
 
 Shubham Shah: My concentration was on the comparison part, specifically comparing the two systems: matrix factorization and user-user, item-item. To do this, I divided my training and testing data in an 80:20 ratio. Next, I determined the RMSE and MAE of those systems by predicting the ratings on the test data. The rmse and mae for matrix-factorization are relatively low, which makes it a more robust option for recommendation tasks. But for user-user and item-item, I had somewhat higher rmse and mae for various reasons such as Data sparsity, Limited test set , Cold-start problem, etc. 
 

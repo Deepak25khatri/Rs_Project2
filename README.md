@@ -32,5 +32,7 @@ Vikram: Mainly worked on data cleaning and EDA part and gained insights from tha
 
 ## References
 https://towardsdatascience.com/recommender-systems-matrix-factorization-using-pytorch-bd52f46aa199
+
 https://towardsdatascience.com/recommendation-system-matrix-factorization-d61978660b4b
+
 https://towardsdatascience.com/building-and-testing-recommender-systems-with-surprise-step-by-step-d4ba702ef80b
